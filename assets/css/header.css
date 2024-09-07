@@ -45,7 +45,7 @@
 }
 
 .information .location::before {
-    background-image: url('/assets/img/icons/VectorPin.svg');
+    background-image: url('../img/icons/VectorPin.svg');
 }
 
 .information .phone::before {
