@@ -41,7 +41,7 @@
 }
 
 .information .job::before {
-    background-image: url('/assets/img/icons/GroupUser.svg');
+    background-image: url('../img/icons/GroupUser.svg');
 }
 
 .information .location::before {
@@ -49,11 +49,11 @@
 }
 
 .information .phone::before {
-    background-image: url('/assets/img/icons/VectorWhatsapp.svg');
+    background-image: url('../img/icons/VectorWhatsapp.svg');
 }
 
 .information .email::before {
-    background-image: url('/assets/img/icons/GroupMail.svg');
+    background-image: url('../img/icons/GroupMail.svg');
 }
 
 @media only screen and (min-width: 768px) {
