@@ -53,18 +53,17 @@ function updatePortfolio(profileData) {
 
 function updateProfessionalExperiences(profileData) {
     const professionalExperience = document.getElementById('profile.professionalExperience');
-
-    profileData.professionalExperience.map(experience => {
+    professionalExperience.innerHTML = profileData.professionalExperience.map(experience => {
         return `
             <li>
-                <h3 class="list-title">${experience.name}</h3>
+                <h3>${experience.name}</h3>
                 <p class="period">${experience.period}</p>
                 <p>
                     ${experience.description}
                 </p>
             </li>
         `
-    })
+    });
 }
 
 (async () => {
