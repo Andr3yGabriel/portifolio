@@ -75,13 +75,33 @@
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "Projeto Central das Contas",
+        "url": "https://github.com/Andr3yGabriel/Projeto-Central-das-Contas",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Api Java",
+        "url": "https://github.com/Andr3yGabriel/api-java",
+        "github": true
+      }, 
+      {
+        "name": "Api Laravel",
+        "url": "https://github.com/Andr3yGabriel/api-laravel",
+        "github": true
+      }, 
+      {
+        "name": "Web Service de Sistema Bancário",
+        "url": "https://github.com/Andr3yGabriel/sistema-bancario",
+        "github": true
+      }, 
+      {
+        "name": "To-do List com .NET e Vue.Js",
+        "url": "https://github.com/Andr3yGabriel/Lista-de-tarefas",
+        "github": true
+      }, 
+      {
+        "name": "Android Weather App com java",
+        "url": "https://github.com/Andr3yGabriel/Weather-App",
         "github": true
       }
     ],
