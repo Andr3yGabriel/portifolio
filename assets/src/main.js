@@ -63,7 +63,7 @@ function updateProfessionalExperiences(profileData) {
                 </p>
             </li>
         `
-    }).joi('');
+    }).join('');
 }
 
 (async () => {
