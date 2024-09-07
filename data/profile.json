@@ -9,55 +9,55 @@
       "hardSkills": [
         {
           "name": "Nodejs",
-          "logo": "https://github.com/Andr3yGabriel/portifolio/blob/main/data/imgs/nodejs.png"
+          "logo": "https://raw.githubusercontent.com/Andr3yGabriel/portifolio/main/data/imgs/nodejs.png"
         },
         {
           "name": "Java",
-          "logo": "https://github.com/Andr3yGabriel/portifolio/blob/main/data/imgs/java.png"
+          "logo": "https://raw.githubusercontent.com/Andr3yGabriel/portifolio/main/data/imgs/java.png"
         },
         {
           "name": "Python",
-          "logo": "https://github.com/Andr3yGabriel/portifolio/blob/main/data/imgs/python.png"
+          "logo": "https://raw.githubusercontent.com/Andr3yGabriel/portifolio/main/data/imgs/python.png"
         },
         {
           "name": "React",
-          "logo": "https://github.com/Andr3yGabriel/portifolio/blob/main/data/imgs/react.png"
+          "logo": "https://raw.githubusercontent.com/Andr3yGabriel/portifolio/main/data/imgs/react.png"
         },
         {
           "name": "C#",
-          "logo": "https://github.com/Andr3yGabriel/portifolio/blob/main/data/imgs/cshharp.png"
+          "logo": "https://raw.githubusercontent.com/Andr3yGabriel/portifolio/main/data/imgs/cshharp.png"
         },
         {
           "name": "Postgresql",
-          "logo": "https://github.com/Andr3yGabriel/portifolio/blob/main/data/imgs/postgres.png"
+          "logo": "https://raw.githubusercontent.com/Andr3yGabriel/portifolio/main/data/imgs/postgres.png"
         },
         {
           "name": "Docker",
-          "logo": "https://github.com/Andr3yGabriel/portifolio/blob/main/data/imgs/docker.png"
+          "logo": "https://raw.githubusercontent.com/Andr3yGabriel/portifolio/main/data/imgs/docker.png"
         },
         {
           "name": "Dotnet",
-          "logo": "https://github.com/Andr3yGabriel/portifolio/blob/main/data/imgs/dotnet.png"
+          "logo": "https://raw.githubusercontent.com/Andr3yGabriel/portifolio/main/data/imgs/dotnet.png"
         },
         {
           "name": "Git",
-          "logo": "https://github.com/Andr3yGabriel/portifolio/blob/main/data/imgs/git.png"
+          "logo": "https://raw.githubusercontent.com/Andr3yGabriel/portifolio/main/data/imgs/git.png"
         },
         {
           "name": "HTML",
-          "logo": "https://github.com/Andr3yGabriel/portifolio/blob/main/data/imgs/html.png"
+          "logo": "https://raw.githubusercontent.com/Andr3yGabriel/portifolio/main/data/imgs/html.png"
         },
         {
           "name": "CSS",
-          "logo": "https://github.com/Andr3yGabriel/portifolio/blob/main/data/imgs/css.png"
+          "logo": "https://raw.githubusercontent.com/Andr3yGabriel/portifolio/main/data/imgs/css.png"
         },
         {
           "name": "VueJs",
-          "logo": "https://github.com/Andr3yGabriel/portifolio/blob/main/data/imgs/vuejs.png"
+          "logo": "https://raw.githubusercontent.com/Andr3yGabriel/portifolio/main/data/imgs/vuejs.png"
         },
         {
           "name": "JavaScript",
-          "logo": "https://github.com/Andr3yGabriel/portifolio/blob/main/data/imgs/javascript.png"
+          "logo": "https://raw.githubusercontent.com/Andr3yGabriel/portifolio/main/data/imgs/javascript.png"
         }
       ],
       "softSkills": [
