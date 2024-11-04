@@ -85,8 +85,8 @@
         "github": true
       }, 
       {
-        "name": "Api Laravel",
-        "url": "https://github.com/Andr3yGabriel/api-laravel",
+        "name": "Portfolio Web",
+        "url": "https://github.com/Andr3yGabriel/portifolio-web",
         "github": true
       }, 
       {
@@ -100,8 +100,8 @@
         "github": true
       }, 
       {
-        "name": "Android Weather App com java",
-        "url": "https://github.com/Andr3yGabriel/Weather-App",
+        "name": "Jogo da Velha",
+        "url": "https://github.com/Andr3yGabriel/Tic-Tac-Toe",
         "github": true
       }
     ],
@@ -114,7 +114,7 @@
       {
         "name": "Estagiário de Desenvolvimento / NewM",
         "period": "Jun 2024 - Atualmente",
-        "description": "Estudo e desenvolvo projetos web e mobile utilizando diversas tecnologias, incluindo PHP, Laravel, Java (Mobile e Web), .NET, React.js, Vue.js, SQL e git.Também aplico princípios de Clean Code, SOLID e uso containers com Docker para garantir a qualidade e eficiência do desenvolvimento."
+        "description": "Estou atuando em um projeto de desenvolvimento mobile de um aplicativo de venda de consórcio usando React Native para o front-end e .NET para o back-end como uma API monolítica. Trabalhei na conversão dos endpoints do back-end de PHP para .NET e estudo diferentes tecnologias, como Java, VueJs, NodeJs, TypeScript, PHP, Laravel e React, para concluir o programa de formação de estagiário. Também faço uso constante de Git para controle de versão, Docker para simplificar a configuração do ambiente, aplico boas práticas de desenvolvimento de software, como Clean Code e SOLID, e estudo padrões arquiteturais como MVC, MVVM e Domain-Centric."
       }
     ]
 }
